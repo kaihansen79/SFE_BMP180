@@ -1,6 +1,6 @@
 {
     "name": "SFE_BMP180",
-    "version": "V_1.1.2",
+    "version": "0.0.1",
     "author": "SparkFun",
     "license": "Open Source",
     "description": "https://github.com/sparkfun/BMP180_Breakout_Arduino_Library"
